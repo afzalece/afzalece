@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afzalece
+- 👋 Hi, I’m Afzal Hossain
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently focusing on Front End Development
 - 💞️ I’m looking to collaborate on ...
